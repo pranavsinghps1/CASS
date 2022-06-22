@@ -1,0 +1,15 @@
+py==1.11.0
+scikit-learn==1.1.1
+scipy==1.5.2
+tensorboard==2.2.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+timm==0.5.4
+torch==1.11.0
+torchcontrib==0.0.2
+torchmetrics==0.9.1
+torchtext==0.9.1
+torchvision==0.9.1
+tornado==6.1
+tox==3.5.2
+tqdm==4.42.1
