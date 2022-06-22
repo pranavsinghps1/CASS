@@ -7,11 +7,17 @@ Official PyTorch implementation of **CASS**, from the following paper:
 New York University.
 
 ## Installation
+Kindly use the requirements.txt for installing all the required dependencies.
 
 ## Training
 See [TRAINING.md](TRAINING.md) for training and fine-tuning instructions.
 
 ## Evaluation
+For evaluation simply use the saved weight at:
+```
+model_vit=torch.load('/scratch/ps4364/BTMRI/code/1p-data/Cov-t/covt-r50-label-bMRI-100p-es-0.pt')
+
+```
 
 
 ## Acknowledgement
