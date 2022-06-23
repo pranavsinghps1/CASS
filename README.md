@@ -6,6 +6,13 @@ Official PyTorch implementation of **CASS**, from the following paper:
 [Pranav Singh](https://pranavsinghps1.github.io/), [Elena Sizikova](https://esizikova.github.io/), [Jacopo Cirrone](https://scholar.google.com/citations?user=DF9nXUYAAAAJ&hl=en) \
 New York University.
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cass-cross-architectural-self-supervision-for/partial-label-learning-on-autoimmune-dataset)](https://paperswithcode.com/sota/partial-label-learning-on-autoimmune-dataset?p=cass-cross-architectural-self-supervision-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cass-cross-architectural-self-supervision-for/classification-on-autoimmune-dataset)](https://paperswithcode.com/sota/classification-on-autoimmune-dataset?p=cass-cross-architectural-self-supervision-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cass-cross-architectural-self-supervision-for/classification-on-brain-tumor-mri-dataset)](https://paperswithcode.com/sota/classification-on-brain-tumor-mri-dataset?p=cass-cross-architectural-self-supervision-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cass-cross-architectural-self-supervision-for/classification-on-isic-2019)](https://paperswithcode.com/sota/classification-on-isic-2019?p=cass-cross-architectural-self-supervision-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cass-cross-architectural-self-supervision-for/partial-label-learning-on-isic-2019)](https://paperswithcode.com/sota/partial-label-learning-on-isic-2019?p=cass-cross-architectural-self-supervision-for)
+
+
 ## Installation
 Kindly use the requirements.txt for installing all the required dependencies.
 
