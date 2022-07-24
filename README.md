@@ -1,7 +1,6 @@
 
 # Official PyTorch implementation of **CASS**, from the following paper:
 
-  
 
 [CASS: Cross Architectural Self-Supervision for Medical Image Analysis](https://arxiv.org/abs/2206.04170v3). arXiv 2022.
 
