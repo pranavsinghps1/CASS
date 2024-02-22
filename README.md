@@ -1,12 +1,22 @@
 
-# Official PyTorch implementation of **CASS**, from the following paper:
+# Official PyTorch implementation of **CASS**, from the following papers:
 
 
-[CASS: Cross Architectural Self-Supervision for Medical Image Analysis](https://arxiv.org/abs/2206.04170). arXiv 2022.
+[CASS: Cross Architectural Self-Supervision for Medical Image Analysis](https://arxiv.org/abs/2206.04170). 
+
+**(Accepted at the NeurIPS 2022 Workshop: Self-Supervised Learning - Theory and Practice)**
 
 [Pranav Singh](https://pranavsinghps1.github.io/), [Elena Sizikova](https://esizikova.github.io/), [Jacopo Cirrone](https://scholar.google.com/citations?user=DF9nXUYAAAAJ&hl=en)
 
 New York University.
+
+
+
+A longer version of the above was accepted at the **Machine Learning for Healthcare Conference, New York, USA**
+
+[Efficient Representation Learning for Healthcare with Cross-Architectural Self-Supervision](https://proceedings.mlr.press/v219/singh23a.html)
+
+[Pranav Singh](https://pranavsinghps1.github.io/),[Jacopo Cirrone](https://scholar.google.com/citations?user=DF9nXUYAAAAJ&hl=en); Proceedings of the 8th Machine Learning for Healthcare Conference, PMLR 219:691-711, 2023.
 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cass-cross-architectural-self-supervision-for/partial-label-learning-on-autoimmune-dataset)](https://paperswithcode.com/sota/partial-label-learning-on-autoimmune-dataset?p=cass-cross-architectural-self-supervision-for)
@@ -121,17 +131,19 @@ Sequentially running the notebooks should render the required result. See [TRAIN
 If you find this repository helpful, please consider citing:
 
 ```
-
-@article{singh2022cass,
-
-title={CASS: Cross Architectural Self-Supervision for Medical Image Analysis},
-
-author={Singh, Pranav and Sizikova, Elena and Cirrone, Jacopo},
-
-journal={arXiv preprint arXiv:2206.04170},
-
-year={2022}
-
+@InProceedings{pmlr-v219-singh23a,
+  title = 	 {Efficient Representation Learning for Healthcare with Cross-Architectural Self-Supervision},
+  author =       {Singh, Pranav and Cirrone, Jacopo},
+  booktitle = 	 {Proceedings of the 8th Machine Learning for Healthcare Conference},
+  pages = 	 {691--711},
+  year = 	 {2023},
+  editor = 	 {Deshpande, Kaivalya and Fiterau, Madalina and Joshi, Shalmali and Lipton, Zachary and Ranganath, Rajesh and Urteaga, Iñigo and Yeung, Serene},
+  volume = 	 {219},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {11--12 Aug},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v219/singh23a/singh23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v219/singh23a.html}
 }
 
 ```
